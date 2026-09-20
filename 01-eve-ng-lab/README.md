@@ -20,7 +20,8 @@
 
 ## Каталоги
 
-- `configs/` — конфигурации;
+- `custom-templates/` — шаблоны оборудования для EVE-NG;
 - `topology/` — топологии EVE-NG и схемы;
 - `diagrams/` — сетевые схемы;
 - `notes/` — дополнительные заметки.
+- `software/juniper/` - Метафайлы для Juniper vMX
