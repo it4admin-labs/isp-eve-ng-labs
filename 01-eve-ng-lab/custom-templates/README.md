@@ -4,7 +4,7 @@
 
 Здесь будут размещаться файлы шаблонов, необходимые для добавления и запуска нестандартных или дополнительно настроенных образов сетевого оборудования в EVE-NG.
 
-csr1000vng.yml - Cisco CSR1000v (AR-1)
+- csr1000vng.yml - Cisco CSR1000v (AR-1)
 huaweice6800.yml - Huawei CE6800 (Коммутаторы доступа)
 huaweine40e.yml - Huawei NE40E (PE-1)
 timos-ng.yml - Nokia 7750VSR (PE-3)
