@@ -13,7 +13,7 @@
 - vmxmpc.yml - Juniper vMX FPC0 with vMPC (NAT-1)
 - vmxvcp-re0.yml - Juniper vMX vCP RE0 (BRAS-1)
 - vmxvcp-re1.yml - Juniper vMX vCP RE1 (BRAS-1)
-- vmxvcp.yml - Juniper vMX Single RE0 (PE-2)
+- vmxvcp.yml - Juniper vMX Single RE0 (PE-2, NAT-1)
 - vmxvfp.yml - Juniper vMX Single FPC0 (PE-2)
 - vmxvfp-fpc0.yml - Juniper vMX FPC0 (BRAS-1)
 - vmxvfp-fpc1.yml - Juniper vMX FPC1 (BRAS-1)
