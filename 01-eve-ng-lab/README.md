@@ -24,4 +24,4 @@
 - `topology/` — топологии EVE-NG и схемы;
 - `diagrams/` — сетевые схемы;
 - `notes/` — дополнительные заметки.
-- `software/juniper/` - Метафайлы для Juniper vMX
+- `software/juniper/` - метафайлы для Juniper vMX
