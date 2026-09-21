@@ -4,7 +4,7 @@
 
 ## Видео
 
-[Смотреть выпуск 1 на YouTube](https://www.youtube.com/playlist?list=PLoSvnAe9cgLDNtF89-A1s0qLyCRjXEok_)
+[Смотреть выпуск 1 на YouTube](https://youtu.be/KsVRNM9Hk0k)
 
 ## В этом выпуске
 
