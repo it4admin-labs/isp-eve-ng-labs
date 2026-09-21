@@ -1,16 +1,25 @@
+# Локальные правила Snort 3
+#
+# Лабораторные правила для проверки Inline IPS.
+# SIDs относятся только к локальному набору правил.
+
+# Блокировка ICMP через активный ответ reject.
 reject icmp any any -> any any
 (
-    msg:"Reject ICMP";
+    msg:"LAB Reject ICMP";
     sid:1;
     rev:1;
 )
 
+# Блокировка HTTP-запросов к заданному имени ресурса.
+# react отправляет клиенту страницу-заглушку и завершает HTTP-сессию.
 react http any any -> any 80
 (
-    msg:"Unauthorized Access Prohibited!";
+    msg:"LAB HTTP access prohibited";
     flow:established, to_server;
     http_uri;
     http_header: field host;
     content:"httpforever.com";
     sid:2;
+    rev:1;
 )
