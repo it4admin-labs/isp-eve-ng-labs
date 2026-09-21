@@ -2,6 +2,10 @@
 
 Материалы к выпуску о MPLS, LDP, MPLS L3 VPN и VRF в сети Интернет-провайдера.
 
+## Видео
+
+[Смотреть выпуск 5 на YouTube](https://youtu.be/qR8pXMqBW-Y)
+
 ## В этом выпуске
 
 - MPLS;
