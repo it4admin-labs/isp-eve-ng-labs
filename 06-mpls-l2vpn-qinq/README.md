@@ -2,6 +2,10 @@
 
 Материалы к выпуску о MPLS L2 VPN (L2VPN), QinQ и построении L2-сервиса от агрегации до BRAS.
 
+## Видео
+
+[Смотреть выпуск 6 на YouTube](https://youtu.be/aMMxrCjq0RE)
+
 ## В этом выпуске
 
 - базовые принципы MPLS L2 VPN (L2VPN);
