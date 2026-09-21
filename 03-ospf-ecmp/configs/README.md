@@ -2,20 +2,22 @@
 
 Конфигурации сетевого оборудования для выпуска «OSPF и ECMP в сети Интернет-провайдера | Настройка Cisco, Juniper, Nokia, Huawei — Выпуск 3».
 
-## Файлы
+## Файлы конфигурации
 
-- [`AR-1.cfg`](./AR-1.cfg) — конфигурация AR-1.
-- [`ASBR.cfg`](./ASBR.cfg) — конфигурация ASBR.
-- [`BRAS-1.cfg`](./BRAS-1.cfg) — конфигурация BRAS-1.
-- [`BRAS-2.cfg`](./BRAS-2.cfg) — конфигурация BRAS-2.
-- [`CR-1.cfg`](./CR-1.cfg) — конфигурация CR-1.
-- [`CR-2.cfg`](./CR-2.cfg) — конфигурация CR-2.
-- [`NAT-1.cfg`](./NAT-1.cfg) — конфигурация NAT-1.
-- [`PE-1.cfg`](./PE-1.cfg) — конфигурация PE-1.
-- [`PE-2.cfg`](./PE-2.cfg) — конфигурация PE-2.
-- [`PE-3.cfg`](./PE-3.cfg) — конфигурация PE-3.
-- [`PE-4.cfg`](./PE-4.cfg) — конфигурация PE-4.
-- [`VRR-1.cfg`](./VRR-1.cfg) — конфигурация VRR-1.
+| Файл | Оборудование | Роль |
+|---|---|---|
+| [`AR-1.cfg`](./AR-1.cfg) | Cisco CSR1000v | AR |
+| [`ASBR.cfg`](./ASBR.cfg) | Juniper MX | ASBR |
+| [`BRAS-1.cfg`](./BRAS-1.cfg) | Cisco IOS XR | BRAS |
+| [`BRAS-2.cfg`](./BRAS-2.cfg) | Juniper vMX | BRAS |
+| [`CR-1.cfg`](./CR-1.cfg) | Juniper MX | CR |
+| [`CR-2.cfg`](./CR-2.cfg) | Juniper MX | CR |
+| [`NAT-1.cfg`](./NAT-1.cfg) | Juniper vMX | NAT |
+| [`PE-1.cfg`](./PE-1.cfg) | Huawei NE40E | PE |
+| [`PE-2.cfg`](./PE-2.cfg) | Juniper vMX | PE |
+| [`PE-3.cfg`](./PE-3.cfg) | Nokia 7750 VSR | PE |
+| [`PE-4.cfg`](./PE-4.cfg) | Cisco IOS XR | PE |
+| [`VRR-1.cfg`](./VRR-1.cfg) | Juniper vRR | Route Reflector |
 
 ## Назначение
 
