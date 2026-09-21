@@ -2,6 +2,10 @@
 
 Материалы к выпуску о базовой настройке сетевого оборудования перед построением IGP, BGP и MPLS.
 
+## Видео
+
+[Смотреть выпуск 2 на YouTube](https://www.youtube.com/playlist?list=PLoSvnAe9cgLDNtF89-A1s0qLyCRjXEok_)
+
 ## В этом выпуске
 
 - базовая настройка Juniper;
