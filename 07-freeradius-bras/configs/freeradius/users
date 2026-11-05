@@ -1,0 +1,9 @@
+GE1/0/1:Gogolya15p2-02-ASW1 Cleartext-Password := "cisco"
+        Cisco-AVPair +="subscriber:sa=POLICER_64K",
+        Cisco-AVPair += "ipv4-unnumbered=Loopback2030113",
+        Framed-IP-Address = 203.0.113.55,
+        Framed-IP-Netmask = 255.255.255.0,
+        Cisco-AVPair = "dhcp-class=PUBLIC"
+
+
+DEFAULT Auth-Type := Accept
