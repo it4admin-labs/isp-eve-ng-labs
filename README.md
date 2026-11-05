@@ -17,10 +17,11 @@
 | 5 | MPLS, LDP и MPLS L3 VPN | [Открыть](./05-mpls-l3vpn/) |
 | 5.1 | Snort 3, DPI и Inline IPS | [Открыть](./05.1-snort3/) |
 | 6 | MPLS L2 VPN и QinQ | [Открыть](./06-mpls-l2vpn-qinq/) |
+| 7 | FreeRADIUS и BRAS Cisco IOS XR | [Открыть](./07-freeradius-bras/) |
 
 ## Основные технологии
 
-EVE-NG · IP/MPLS · OSPF · IS-IS · BGP · MPLS · LDP · MPLS L2 VPN · MPLS L3 VPN · QinQ · VRF · BRAS/BNG · Cisco · Juniper · Nokia · Huawei · Snort 3
+EVE-NG · IP/MPLS · OSPF · IS-IS · BGP · MPLS · LDP · MPLS L2 VPN · MPLS L3 VPN · QinQ · VRF · BRAS/BNG · RADIUS · FreeRADIUS · AAA · CoA · Cisco · Juniper · Nokia · Huawei · Snort 3
 
 ## О проекте
 
