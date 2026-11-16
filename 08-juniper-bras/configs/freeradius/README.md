@@ -4,7 +4,7 @@
 
 Полная инструкция по установке и базовой настройке FreeRADIUS уже приведена в материалах выпуска 7:
 
-[FreeRADIUS — установка, основные параметры и CoA](../../../../07-freeradius-bras/configs/freeradius/)
+[FreeRADIUS — установка, основные параметры и CoA](../../../07-freeradius-bras/configs/freeradius/)
 
 В выпуске 8 здесь будут храниться только файлы и изменения, относящиеся к интеграции FreeRADIUS с Juniper BRAS.
 
