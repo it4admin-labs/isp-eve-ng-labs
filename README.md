@@ -18,7 +18,7 @@
 | 5.1 | Snort 3, DPI и Inline IPS | [Открыть](./05.1-snort3/) |
 | 6 | MPLS L2 VPN и QinQ | [Открыть](./06-mpls-l2vpn-qinq/) |
 | 7 | FreeRADIUS и BRAS Cisco IOS XR — [YouTube](https://youtu.be/PVVKvEpLbrM) | [Открыть](./07-freeradius-bras/) |
-| 8 | BRAS Juniper и FreeRADIUS | [Открыть](./08-juniper-bras/) |
+| 8 | BRAS Juniper и FreeRADIUS — [YouTube](https://youtu.be/uKfA7lcJiok) | [Открыть](./08-juniper-bras/) |
 
 ## Основные технологии
 
