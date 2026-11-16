@@ -1,0 +1,11 @@
+echo Acct-Session-Id="104", ERX-Service-Activate:1="REDIRECT_NOPAY" | radclient -d /usr/share/freeradius/ -sx 198.18.0.4 coa juniper
+echo Acct-Session-Id="104", ERX-Service-Deactivate="REDIRECT_NOPAY" | radclient -d /usr/share/freeradius/ -sx 198.18.0.4 coa juniper
+
+echo Acct-Session-Id="104", 'ERX-Service-Activate:1 = "RATELIMIT(10000000)"' | radclient -d /usr/share/freeradius/ -sx 198.18.0.4 coa juniper
+echo Acct-Session-Id="104", ERX-Service-Deactivate = 'RATELIMIT' | radclient -d /usr/share/freeradius/ -sx 198.18.0.4 coa juniper
+
+
+echo 'Acct-Session-Id = "104",
+ERX-Service-Deactivate = "RATELIMIT",
+ERX-Service-Activate:1 = "RATELIMIT(20000000)"' \
+| radclient -d /usr/share/freeradius/ -x 198.18.0.4 coa juniper
