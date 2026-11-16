@@ -1,0 +1,12 @@
+GE1/0/1:Gogolya15p2-02-ASW1 Cleartext-Password := "juniper"
+        Framed-Pool = "IPoE_198_51_100_pool",
+        Framed-IP-Address = 198.51.100.55,
+        ERX-Service-Activate:1 = "RATELIMIT(10000000)"
+
+
+GE1/0/1:Lenina10p1-01-ASW1 Cleartext-Password := "juniper"
+        Framed-Pool = "IPoE_198_51_100_pool",
+        Framed-IP-Address = 198.51.100.56,
+        ERX-Service-Activate:1 = "RATELIMIT(100000000)"
+
+DEFAULT Auth-Type := Accept
